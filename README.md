@@ -23,6 +23,9 @@ A transcription error was identified in Table 2 of the conference version. Durin
 This correction is limited to the numerical values presented in Table 2. The experiments were conducted using the correct configurations, and all analyses and conclusions remain unchanged.
 
 The corrected Table 2 is shown below.
+<div align="center">
+    <img src="./bigcode/SLoRA.png" alt="SLoRA" width="80%">
+</div>
 
 
 ## Acknowledgements
