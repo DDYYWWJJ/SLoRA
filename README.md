@@ -15,6 +15,16 @@ bash scripts/run_slora.sh
 ```
 
 
+## Erratum for Table 2
+The conference camera-ready version could not be updated after the submission deadline. Therefore, we provide the corrected table here for reference.
+
+A transcription error was identified in Table 2 of the conference version. During manuscript preparation, the GPU memory usage values corresponding to rank = 64 were inadvertently copied from the rank = 32 configuration and were not updated accordingly. The correct GPU memory usage values for rank = 64 should be twice those reported in the published table.
+
+This correction is limited to the numerical values presented in Table 2. The experiments were conducted using the correct configurations, and all analyses and conclusions remain unchanged.
+
+The corrected Table 2 is shown below.
+
+
 ## Acknowledgements
 
 Our code is based on LoRI.
