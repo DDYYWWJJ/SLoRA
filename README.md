@@ -24,7 +24,7 @@ This correction is limited to the numerical values presented in Table 2. The exp
 
 The corrected Table 2 is shown below.
 <div align="center">
-    <img src="./bigcode/SLoRA.png" alt="SLoRA" width="80%">
+    <img src="./bigcode/table2-modify.jpg" alt="table2-modify" width="80%">
 </div>
 
 
